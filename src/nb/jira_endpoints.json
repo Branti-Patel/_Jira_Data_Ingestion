@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "endpoint": "/search/jql",
+    "data_key": "issues",
+    "fields": "summary,description,issuetype,status,assignee,reporter,priority,parent",
+    "type": "issues"
+  },
+  "projects": {
+    "endpoint": "/project/search",
+    "data_key": "values",
+    "type": "projects"
+  }
+}
